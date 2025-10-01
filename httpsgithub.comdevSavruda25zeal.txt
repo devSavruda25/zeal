@@ -1,3 +1,5 @@
 https://github.com/devSavruda25/zeal
 
 KQooZEbg4dmqZ67f%mOyY24VS*ZRmvmS
+
+ssh -i "data.pem" ubuntu@ec2-13-233-131-6.ap-south-1.compute.amazonaws.com
